@@ -14,8 +14,9 @@ type Program = {
     Statements: Statement[]
 }
 
-// fucntion TokenLiteral(p: Program): string {
-//     if(p.Statements.length > 0){
-//         return p.Statements[0].TokenLiteral()
-//     }
-// }
+export function TokenLiteral(p: Program): string {
+    if (p.Statements.length > 0){
+        return p.Statements[0].TokenLiteral()
+    }else 
+        return ""
+}
