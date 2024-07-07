@@ -1,4 +1,3 @@
 # Interpreter in typescript
 
-### Creating an interpreter with typescript to learn typescript in dept.
-### Created with the help of Thorsten Ball's WRITING AN INTERPRETER IN GO [LINK](https://interpreterbook.com/)
+I am developing an interpreter in TypeScript to gain an in-depth understanding of the language. The project is inspired by Thorsten Ball's book *Writing an Interpreter in Go*.[link](https://interpreterbook.com/)
